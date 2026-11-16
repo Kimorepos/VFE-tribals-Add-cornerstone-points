@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>VFE-tribals: Add cornerstone points</name>
+	<author>Eragon</author>
+	<packageId>Eragon.VFETribalDevTweaks</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+		<li>1.7</li>
+	</supportedVersions>
+	<modDependenciesByVersion>
+		<v1.5>
+			<li>
+				<packageId>brrainz.harmony</packageId>
+				<displayName>Harmony</displayName>
+				<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			</li>
+		</v1.5>
+	</modDependenciesByVersion>
+	<description>
+	 [h1] What does this mod do? [/h1] 
+
+This is a very simple mod that only add a dev mod tool, which allow to add a cornerstone point.
+Great if you didn't received yours due to a bug, just want to test things, don't feel like starting a colony at animal tech level, want to screw with balance...
+Especially nice if you play with VFE:Classical, as that count as a whole era in my book. Go ahead, you deserve that cornerstone.
+
+[h1] F.A.Q [/h1] 
+
+Q: I'm pretty this mod already exist?
+A: It used to, but the author decided to completely delete it from the workshop, thus also deleting it from all computers that had this mod installed. Yeah. So this mod has been remade from scratch.
+
+Q: CE compatible?
+A: I'm pretty sure this one is, for a change!
+
+Q: Is it compatible with [i] insert x mod [/i] in particular ?  
+A: It's just a dev mode option. It should be virtually compatible with anything.
+
+Q: Can I add it mid playthrough?
+A: Yep, don't remove it mid playthrough though!
+
+[h1] Credits [/h1] 
+
+[url=https://steamcommunity.com/id/Oskarpotocki/myworkshopfiles/] Oskar Potocki and the Vanilla Expended team[/url] for their wonderful mods
+Coded by the awesome  [url=https://steamcommunity.com/id/Erag0n001/] Eragon [/url] 
+
+
+	</description>
+</ModMetaData>
